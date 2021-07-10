@@ -37891,7 +37891,7 @@ $C:"$0",
 $R:0,
 $S:0}
 X.a7G.prototype={
-$0:function(){this.a.kc("https://drive.google.com/drive/folders/1r5XygU6S6GUweEqWprG1rITFhprubAkZ?usp=sharing")},
+$0:function(){this.a.kc("https://covid19.zulzayn.com/release/android/covid19_insight.apk")},
 $S:0}
 X.a7J.prototype={
 $0:function(){var s=this.a
@@ -37909,7 +37909,7 @@ $C:"$0",
 $R:0,
 $S:0}
 X.a7E.prototype={
-$0:function(){this.a.kc("https://drive.google.com/drive/folders/1bCvSPlWxY-_uMOEBy9YTgGlg9E3RJHtl?usp=sharing")},
+$0:function(){this.a.kc("https://covid19.zulzayn.com/release/windows/covid19_insight.rar")},
 $S:0}
 S.Dm.prototype={}
 S.ma.prototype={
