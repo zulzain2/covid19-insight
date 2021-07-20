@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "034f3a0a125d250717a566f28bf53f6e",
-"assets/assets/logo/coronavirus.png": "127012906c3407d6b6140a1e89bd6ab7",
+"assets/assets/logo/coronavirus.png": "671ffcbb181060b34f78eead07668051",
 "assets/assets/logo/linux.svg": "e0a0ec28799187bf6150d3c7988c2900",
 "assets/FontManifest.json": "e3637cec141ff037b4151edf1c0411cb",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -28,12 +28,12 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Typicons.ttf": "3386cae1128e52caf268508d477fb660",
 "assets/packages/fluttericon/lib/fonts/WebSymbols.ttf": "4fd66aa74cdc6e5eaff0ec916ac269c6",
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
-"favicon.ico": "8b423b4d4590cdbde91bc583990b17a0",
-"favicon.png": "227203915b11deb05332c1c295895bd1",
-"icons/Icon-192.png": "89f1db737e4d3c33b76c22cb0eb7c25d",
-"icons/Icon-512.png": "127012906c3407d6b6140a1e89bd6ab7",
-"index.html": "5b1b8fc78e41579c9a65c41bce0bb3c6",
-"/": "5b1b8fc78e41579c9a65c41bce0bb3c6",
+"favicon.ico": "a2d45fc73d7bb28e8adbc243b535e2c2",
+"favicon.png": "c79437d9771df5d3bb048249ef797678",
+"icons/Icon-192.png": "68f397a0c8e0aee6f804868bfc072c2a",
+"icons/Icon-512.png": "671ffcbb181060b34f78eead07668051",
+"index.html": "df137efc35d4b7622c59cbbadae705ab",
+"/": "df137efc35d4b7622c59cbbadae705ab",
 "main.dart.js": "0cc73411f34c51cd9bce8759f744d984",
 "manifest.json": "6fddc323c268e5a0b75e2b604c63b7e5",
 "version.json": "d4b6112a7d09f914d8057a5c83273c1d"
